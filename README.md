@@ -54,5 +54,11 @@
     a] Single
     b] Multiple
     c] Multilevel
+
+{17} Recursion
+{18} 2D Array
+{19} Exception Handling
+   a]Try Block
+   b] Catch Block
     d] Hierarchical
     e] Hybrid
