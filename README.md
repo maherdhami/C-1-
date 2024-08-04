@@ -1,6 +1,5 @@
 # C++ (1)
 
-
 {1} Tokens:-
     keywords
     Identifiers
@@ -41,4 +40,19 @@
 
   {12} Inline Functions
   {13} Constructor
-     a] i
+     a] Default
+     b] Parameterized
+     c] Copy
+
+ {14} Destructor
+ {15} Overloading
+    a] Function
+    b] Operator
+    c] Constructor
+
+{16} Inheritance
+    a] Single
+    b] Multiple
+    c] Multilevel
+    d] Hierarchical
+    e] Hybrid
